@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-![Image](https://github.com/Putinow/putinow.github.io/blob/main/StockSnap_I8UQ50DMRJ.jpg "Cool photo!")
+![Image](StockSnap_I8UQ50DMRJ.jpg "Cool photo!")
 
 For more details see [GitHub best thing Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
